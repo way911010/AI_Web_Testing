@@ -3,11 +3,6 @@ body
     background-color: whitesmoke;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#heightDisplay
-{
-    margin-top: 20px;
-    font-size: 1.5em;
-}
 .chatbuttom
 {
     position: absolute;
