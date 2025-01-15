@@ -1,18 +1,19 @@
 body
 {
     background-color: whitesmoke;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h1
 {
-    color: black;
-    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 p
 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: gray;
 }
-langflow-chat
+.chatbuttom
 {
     position: absolute;
+    bottom: 50px;
+    right: 20px;
 }
