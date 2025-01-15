@@ -1,0 +1,18 @@
+body
+{
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1
+{
+    color: black;
+    font-weight: bold;
+}
+p
+{
+    color: gray;
+}
+langflow-chat
+{
+    position: absolute;
+}
