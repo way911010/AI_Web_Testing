@@ -1,15 +1,12 @@
 body
 {
     background-color: whitesmoke;
-}
-h1
-{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-p
+#heightDisplay
 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: gray;
+    margin-top: 20px;
+    font-size: 1.5em;
 }
 .chatbuttom
 {
